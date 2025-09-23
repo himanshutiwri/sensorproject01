@@ -1,5 +1,5 @@
-# Build tools (fix Render deploy error)
-setuptools>=68.0.0
+# Build tools
+setuptools>=68.0.0,<70
 wheel
 
 # Core ML & data packages
@@ -48,3 +48,4 @@ ensure==1.0.4
 PyYAML==6.0.2
 rich==13.0.0
 typing-extensions==4.15.0
+
