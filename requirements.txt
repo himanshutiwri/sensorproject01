@@ -1,6 +1,6 @@
-# Build tools
-setuptools>=68.0.0,<70
-wheel
+# Build tools (fix Render deploy error)
+setuptools>=68,<70
+wheel>=0.45
 
 # Core ML & data packages
 numpy==1.25.0
