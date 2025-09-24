@@ -14,7 +14,6 @@ seaborn>=0.13.2,<0.14
 # Web / API
 Flask>=3.0.3,<3.1
 uvicorn>=0.30.6,<0.31
-watchfiles>=0.21.0,<0.22
 httpx>=0.28.1,<0.29
 aiofiles>=24.1.0,<25
 httptools>=0.6.4,<0.7
