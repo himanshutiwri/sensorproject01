@@ -33,7 +33,7 @@ types-s3transfer>=0.6.2,<0.7
 pymongo>=4.7.3,<5.0
 dnspython>=2.7.0,<3.0
 cassandra-driver>=3.29.2,<3.30
-database-connect>=0.1.66
+database-connect==0.1.673
 python-dotenv>=1.0.1,<1.1
 
 # ML utilities
