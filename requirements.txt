@@ -5,7 +5,7 @@ wheel>=0.45
 # Core ML & data packages
 numpy>=1.26.4,<2.0
 scipy>=1.14.1,<1.15
-pandas>=2.2.2,<2.4
+pandas==2.0.3
 scikit-learn>=1.5.1,<1.8
 statsmodels>=0.14.2,<0.15
 plotly>=5.23.0,<6.0
@@ -38,7 +38,7 @@ python-dotenv>=1.0.1,<1.1
 
 # ML utilities
 evidently>=0.4.33,<0.5
-xgboost==2.1.4  
+xgboost==2.1.4
 imbalanced-learn>=0.12.3,<0.13
 neuro-mf>=0.0.5
 dill>=0.3.8,<0.4
@@ -49,5 +49,6 @@ ensure>=1.0.4
 PyYAML>=6.0.2,<6.1
 rich>=13.9.4,<14
 typing-extensions>=4.12.2,<5
+
 
 
