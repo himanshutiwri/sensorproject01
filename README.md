@@ -48,4 +48,4 @@ Example of the interface:-go to this website:(<"https://github.com/user-attachme
 
 🚀 **Ready to Use**
 
-You can now analyze sensor data, detect faults, and visualize results easily with this application.
+You can now analyze sensor data, detect faults, and visualize results easily with this app.
