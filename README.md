@@ -50,4 +50,4 @@ Example of the interface:-go to this image:[Screenshot 3](screenshot/Screenshot_
 
 🚀 **Ready to Use**
 
-You can now analyze sensor data, detect faults, and visualize results easily with this app.
+You can now analyze sensor data, detect faults, and visualize result easily with this app.
