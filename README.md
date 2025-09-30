@@ -24,20 +24,20 @@ python app.py
 2.Open your browser and go to:
 
 http://localhost:10000/
-Example of the interface:-go to this image:[Screenshot 1](screenshot/Screenshot_2025-09-27_142720.png)
+Example of the interface:-go to this image:[Screenshot 1](screenshots/Screenshot_2025-09-27_142720.png)
 
 http://localhost:10000/train
-Example of the interface:-go to this image:[Screenshot 2](screenshot/Screenshot_2025-09-27_143117.png)
+Example of the interface:-go to this image:[Screenshot 2](screenshots/Screenshot_2025-09-27_143117.png)
 
 http://localhost:10000/predict
-Example of the interface:-go to this image:[Screenshot 3](screenshot/Screenshot_2025-09-27_142303.png)
+Example of the interface:-go to this image:[Screenshot 3](screenshots/Screenshot_2025-09-27_142303.png)
 
    
 4. **Let's Deploy it at Render.com**:
    -go to this website: https://dashboard.render.com/web
    -then click on new and choose web serivces
    -choose this :Build and deploy from a Git repository and click on next
-   -then in settings : this will open [Screenshot 4 ](screenshot/Screenshot_2025-09-27_113600.png)
+   -then in settings : this will open [Screenshot 4 ](screenshots/Screenshot_2025-09-27_113600.png)
 
 
 6. **So click on manual Deploy and select deploy with latest commit**
@@ -45,7 +45,7 @@ Example of the interface:-go to this image:[Screenshot 3](screenshot/Screenshot_
    -https://sensorproject01-bfap.onrender.com/
    
    
-[Screenshot 5 -prediction page](screenshot/Screenshot_2025-09-27_142303.png)
+[Screenshot 5 -prediction page](screenshots/Screenshot_2025-09-27_142303.png)
 
 
 🚀 **Ready to Use**
