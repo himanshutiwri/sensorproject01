@@ -2,7 +2,7 @@
 
 A Python-based web application that detects whether sensors are functioning normally or showing faults using Machine Learning techniques.
 
-Built with Flask, Pandas, and Scikit-learn for backend processing and prediction.
+Built with Flask, Pandas, and Scikit-learn for backend processing and the prediction.
 
 1. **Setup Virtual Environment**:
    - Open the terminal.
